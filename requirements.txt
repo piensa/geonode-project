@@ -67,7 +67,7 @@ ipython==4.0.0
 ipython-genutils==0.1.0
 isodate==0.5.4
 kombu==3.0.35
-lxml==3.6.1
+lxml==4.6.2
 MapProxy==1.9.0
 mccabe==0.3.1
 MultipartPostHandler==0.1.0
