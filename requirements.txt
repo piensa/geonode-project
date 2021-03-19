@@ -43,7 +43,7 @@ django-taggit==0.18.0
 django-tastypie==0.12.2
 django-terranodo-maploom==1.5.4
 django-wsgi==1.0b1
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 djmp==0.2.8
 elasticsearch==1.9.0
 flake8==2.3.0
