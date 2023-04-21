@@ -102,7 +102,7 @@ Shapely==1.5.13
 simplegeneric==0.8.1
 simplejson==3.8.2
 six==1.10.0
-sqlparse==0.2.0
+sqlparse==0.4.4
 traitlets==4.2.2
 transifex-client==0.10
 Unidecode==0.4.19
